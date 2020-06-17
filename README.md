@@ -1,5 +1,4 @@
 # Customer-Analysis
+Customer Segmentation
 
-##Customer Segmentation
-
-##Lost Clients
+Lost Clients
