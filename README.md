@@ -1,4 +1,4 @@
 # Customer-Analysis
-Customer Segmentation
+Customer Segmentation - Classification
 
-Lost Clients
+Customer Churn - Preditcion
